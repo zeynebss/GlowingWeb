@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    internal class OrderHistory
+  public  class OrderHistory
     {
+        public  int ID { get; set; }    
+        public int OrderID { get; set; }
+        public int OrderStatus { get; set; }
+        public string Note { get; set; }
     }
 }

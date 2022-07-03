@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    internal class ProductPicture
+ public class ProductPicture
     {
     }
 }

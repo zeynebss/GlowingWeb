@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    internal class OrderStatus
+    public class OrderStatus
     {
+     
     }
 }
